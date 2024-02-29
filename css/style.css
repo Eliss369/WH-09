@@ -1,0 +1,12 @@
+p {
+  font-weight: 400;
+}
+h2 {
+  font-weight: 500;
+}
+h1 {
+  font-weight: 700;
+}
+section > h1:first-child {
+  font-weight: 900;
+}
